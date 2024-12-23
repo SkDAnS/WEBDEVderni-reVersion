@@ -1,1 +1,11 @@
+fr\isen\ticketapp\interfaces\models\enums\STATUTS.class
+fr\isen\ticketapp\interfaces\models\enums\ETATSPOSTES.class
+fr\isen\ticketapp\interfaces\models\TicketModel.class
+fr\isen\ticketapp\interfaces\services\UsersService.class
+fr\isen\ticketapp\interfaces\models\UserModel.class
+fr\isen\ticketapp\interfaces\services\TicketService.class
+fr\isen\ticketapp\interfaces\services\DeviceService.class
+fr\isen\ticketapp\interfaces\models\DeviceModel.class
+fr\isen\ticketapp\interfaces\models\enums\IMPACTS.class
+fr\isen\ticketapp\interfaces\models\enums\ETATSTICKETS.class
 org\acme\GreetingResource.class
